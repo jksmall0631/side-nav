@@ -102,8 +102,8 @@ html, body {
 }
 
 .side-nav__header {
-  height: 200px;
-  background: #EA2663;
+  height: 150px;
+  background: #A38CA8;
   color: #FFF;
   display: flex;
   padding: 16px;
